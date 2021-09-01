@@ -1,1 +1,1 @@
-// implement MovieCard component here
+// implementd MovieCard component here
