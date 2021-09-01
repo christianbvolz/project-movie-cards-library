@@ -1,1 +1,0 @@
-// implementd MovieCard component here
